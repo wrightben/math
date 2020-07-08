@@ -1,6 +1,6 @@
 # math
 
-## Mortgage Math with Shortcut.numbers
+### Mortgage Math with Shortcut.numbers
 
 ![Mortgage Math](https://github.com/wrightben/math/blob/master/Mortgage%20Math/Mortgage_Math.png)
 

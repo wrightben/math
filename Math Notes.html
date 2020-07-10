@@ -20,15 +20,23 @@
 			h1 {
 				font-weight: 300;
 			}
-			h4 {
+			h3 {
+				font-size: 1.5em;
+				font-weight: 400;
 				margin-top: 50px;
+				color: rgb(60,61,64);
+			}
+			h4 {
+				margin-top: 3em;
 				font-weight: 300;
 				font-size: 1.15em;
-				color: rgb(77, 108, 134);
+				color: rgb(29,115,251);
 			}
 			p {
 				font-weight: 300;
 				line-height: 1.5em;
+			}
+			p::before {
 			}
 			.example {
 				display: none;
@@ -48,22 +56,41 @@
 			<h1>Math Notes</h1>
 			<p>Origin: 2020-06-29</p>
 			
-			<h4>Mortgage Math | File: Rule of 72.gcx</h4>
-			<p class="mjx-clear">The log function for determining \(b^e = 2\) is similar to the equation \(72 \cdot \frac{1}{x}\)</p>
+			<h4>Mortgage Math | Rule of 72.gcx</h4>
+			<p class="mjx-clear">\(\log_{1+\frac{x}{100}} 2\): The log function for determining \(b^e = 2\) is similar to the equation \(72 \cdot \frac{1}{x}\)</p>
+
+		<h3>Thomas Calculus</h3>
+
+			<h4>x-squared and tangent.gcx:</h4>
+			<p>Graphs of the equation \(x^2\) and its derivative \(2x\). The equation \(t(x) = (2c)\cdot x - c^2\) is the tangent line when x = c. Graphing \(t(x)\) = \((2x)\cdot x\ -\ x^2\) produces \(x^2\).</p>
+			<p>Thomas Calculus, P. 45</p>
 
 			<h4>Thomas Calculus, Sec 2-3</h4>
 			<p class="mjx-clear">\[\lim_{x\to c\ ±\ \delta} f(x) = L\ ±\ \epsilon\]</p>
 
-			<h4>Calculus for Dummies | File: Critical numbers and concavity.gcx</h4>
-			<p class="mjx-clear">f'(x) = 0 yields critical numbers (c); Note that one of the critical numbers of the graphed equation falls on x = 0, which means the mouse has to be on the y-axis to detect the value, because the axis and the graphed x = 0 are indistinguishable.</p>
+		<h3>Calculus for Dummies</h3>
+
+			<h4>First and Second Derivative Test.gcx ( Critical Numbers and Concavity )</h4>
+			<p class="mjx-clear">\(f'(x) = 0\) yields critical numbers.</p>
+			<p>Note that if one of the critical numbers of the graphed equation falls on x = 0, the mouse has to be on the y-axis to detect the value, because the axis and the graphed x = 0 are indistinguishable.</p>
 			<p class="mjx-clear">f(x) is concave up (smile) when \( f''( f'(x) = 0 ) > 0 \); f(x) is concave down (frown) when \( f''( f'(x) = 0 ) < 0 \).</p>
-					
-			<h4>File: x-squared and tangent.gcx:</h4>
-			<p>Graphs of the equation \(x^2\) and its derivative \(2x\).</p>
-			<p>P. 45 - Thomas Calculus:<br />The equation \(t(x) = (2c)\cdot x - c^2\) is the tangent line when x = c. Graphing \(t(x)\) = \((2x)\cdot x\ -\ x^2\) produces \(x^2\).</p>
 			
-			<h4>Calculus for Dummies | File: Derivative of Abs X.gcx</h4>
-			<p class="mjx-clear">Interesting: \( \frac{dy}{dx} abs(x) \cdot x = abs(x) \)</p>
+			<h4>The Second Derivative Test (Unnecessary).gcx ( Critical Numbers and Concavity )</h4>
+			<p class="mjx-clear">\(y = 2x-3x^{2/3}+4\)</p>
+			<p>f'(x) shows that the slope is negative, it's getting less-negative, but it's getting less negative at a slowing pace.</p>
+			
+			<h4>Absolute Extrema on Closed Interval.gcx ( Critical Numbers and Concavity )</h4>
+			<p class="mjx-clear">Using f'(x) and f''(x) to determine highest and lowest points of f(x).</p>
+			
+			<h4>First and Second Derivative using Difference Quotient and Calculator.gcx</h4>
+			<p class="mjx-clear">Shows the difference quotient for first and second derivative for \(x^2\) and \(\cos x\). It also includes the second derivative using the GCX Menu &rarr; Equation &rarr; Differentiate option: \(\dfrac{d^2}{dx^2}\)</p>
+			
+			
+		<h3>Notes</h3>
+			
+			<h4>Derivative of Abs X.gcx</h4>
+			<p class="mjx-clear">\( \dfrac{d}{dx} abs(x) \cdot x = abs(x) \), which I thought was interesting for some reason.</p>
+			
 
 			<h4>The Art of the Infinite: The Pleasures of Mathematics<br />Attacking Problems in Logarithms and Exponential Functions</h4>
 			<p class="mjx-clear">The reduction of exponents to addition is fun. Think: \(2^3\) has \(2^{\ x-1}\) groups of ·· and \(2^{\ x-1} - 1\) addition signs. Or, more often, some other kind of separator. It's fun to consider that exponents of 3 are cubes, and that exponents > than 3 can be grouped in cubes.</p>
@@ -71,9 +98,10 @@
 			<p class="mjx-clear">\(5^1\) would have 4 linking separators, but \(5^{1-1} = 1\). So the above note isn't quite right, because there is the conceptual shift in grouping. Internal separators is always G - 1.</p>
 			
 			<h4>Thoughts on Learning Calculus</h4>
-			
-			<p>The difference quotient doesn't get you to Integral Calculus.</p>
+			<p>The difference quotient doesn't get you to Integral Calculus. Reversing a scalar into components isn't intuitive, and nothing about looking at a graph suggests to me that it's possibly the area of some other graph.</p>
 				
+				
+			<!-- Examples -->
 			<p class="example mjx-clear">When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]</p>
 		
 		</div>

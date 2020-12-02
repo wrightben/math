@@ -17,5 +17,3 @@ If R cannot be zero, it also cannot be greater than 2, because any greater numbe
 R = [1,2]<br />
 A = [0,2,3,4,5,6,7,8,9] when R = [1]; S = [4,5,6,7, ...]<br />
 A = [0,1,3,4] when R = [2]; S = [8, ...]<br />
-
-Just as a note, the most that can carry to R from A is 1, no matter what T is.

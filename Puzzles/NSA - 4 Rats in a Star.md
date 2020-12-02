@@ -12,7 +12,7 @@ R != 0
 
 [1,2] ? ? [4,8] x 4 = [4,8] ? ? [1,2]
 
-If R cannot be zero, it's equal to 1 or 2, because any larger number would result in a carry. The greatest carry possible to R from A is 1, no matter what T is.
+If R cannot be zero, it also cannot be greater than 2, because any greater number would result in a carry. Additionally, the most that can carry to R from A is 1, no matter what T is.
 
 R = [1,2]<br />
 A = [0,2,3,4] when R = [1]; S = [4+, ... <br />

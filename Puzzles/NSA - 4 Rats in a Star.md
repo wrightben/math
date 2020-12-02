@@ -16,6 +16,6 @@ If R cannot be zero, it's equal to 1 or 2, because any larger number would resul
 
 R = [1,2]<br />
 A = [0,2,3,4] when R = [1]; S = [4+, ... <br />
-A = [0,1,3,4,5] when R = [2]; S = [8+, ...]<br />
+A = [0,1,3,4,5] when R = [2]; S = [8+, ...<br />
 
 Note: The greatest carry possible to R from A is 1, no matter what T is.

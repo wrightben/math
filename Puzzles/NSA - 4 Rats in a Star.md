@@ -7,7 +7,9 @@ Each instance of a letter stands for the same digit, no two letters represent th
 ---
 ### Factors
 
-1 · 4	= 4<br />
+It helped me to be able to see the factors of 4.
+
+1 · 4 = 4<br />
 2 · 4 = 8<br />
 3 · 4 = 12<br />
 4 · 4 = 16<br />

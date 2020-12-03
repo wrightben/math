@@ -10,7 +10,7 @@ Each instance of a letter stands for the same digit, no two letters represent th
 
 **R != 0**
 
-[1,2] ? ? [4,8] x 4 = [4,8] ? ? [1,2]
+( [1,2] A T [4,8] ) x 4 = [4,8] T A [1,2]
 
 If R cannot be zero, it also cannot be greater than 2, because any greater number would result in a carry.
 

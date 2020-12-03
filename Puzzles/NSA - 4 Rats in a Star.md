@@ -39,7 +39,7 @@ With the possibilities in Step 1, it might seem obvious to follow the easier pat
 
 ### Step 3
 
-Understanding what RATS = STAR really means makes the puzzle very easy to solve. With 25 combinations, it's possible to list them and multiply them by 4. Simple.
+Understanding what RATS = STAR really means makes the puzzle very easy to solve. With 25 combinations, it's possible to list them and multiply them by 4.
 
 ### Notes
 

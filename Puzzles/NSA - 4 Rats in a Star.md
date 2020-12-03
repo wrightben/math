@@ -5,6 +5,17 @@ Each instance of a letter stands for the same digit, no two letters represent th
 <sub>https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/1627341/decembers-puzzle-periodical-four-rats-in-a-star/</sub>
 
 ---
+### Factors
+
+1 · 4 = 4
+2 · 4 = 8
+3 · 4 = 12
+4 · 4 = 16
+5 · 4 = 20
+6 · 4 = 24
+7 · 4 = 28
+8 · 4 = 32
+9 · 4 = 36
 
 ### Step 1
 
@@ -22,3 +33,10 @@ When R = 2, A < 5; When A >= 5, A will carry to R, pushing R from 8 to 10, which
 
 ### Step 2
 
+With the possibilities in Step 1, it might seem obvious to follow the easier path for Step 2. Consider R = 2, and eliminate the smaller set of combinations: R = [2], A = [0,1,3,4].
+
+Hint: It isn't A = 0, because T would have to equal 0. A != T.
+
+### Step 3
+
+Understanding what RATS = STAR really means makes the puzzle very easy to solve.

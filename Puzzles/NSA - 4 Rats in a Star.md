@@ -43,4 +43,4 @@ Iterate: Take each one, multiply by 4. The answer is *2178*.
 
 ### Notes
 
-It's also possible to use the factors to eliminate some of the possible combinations.
+It's also possible to use the factors to eliminate some of the possible combinations visually.

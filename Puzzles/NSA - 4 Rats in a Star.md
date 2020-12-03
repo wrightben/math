@@ -7,14 +7,14 @@ Each instance of a letter stands for the same digit, no two letters represent th
 ---
 ### Factors
 
-1 · 4 = 4
-2 · 4 = 8
-3 · 4 = 12
-4 · 4 = 16
-5 · 4 = 20
-6 · 4 = 24
-7 · 4 = 28
-8 · 4 = 32
+1 · 4 = 4<br />
+2 · 4 = 8<br />
+3 · 4 = 12<br />
+4 · 4 = 16<br />
+5 · 4 = 20<br />
+6 · 4 = 24<br />
+7 · 4 = 28<br />
+8 · 4 = 32<br />
 9 · 4 = 36
 
 ### Step 1

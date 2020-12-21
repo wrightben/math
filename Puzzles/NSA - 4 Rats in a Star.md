@@ -43,4 +43,6 @@ Iterate: Take each one, multiply by 4. The answer is *2178*.
 
 ### Notes
 
-It's also possible to use the factors to eliminate some of the possible combinations visually.
+It's also possible to use the factors to eliminate some of the possible combinations visually. 
+
+If RATS x 4 = STAR, and no digits repeat, 1234 is the lowest number RATS can be. 6789 is the largest number RATS can be, since STAR would have to be 9876 or less.

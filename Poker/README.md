@@ -18,3 +18,5 @@ Because the 6 players do not know each others' hands, communicating or feigning 
 
 (Mathematical rather than psychological play, if psychological play could exist)
 Without creating the matrix of values, I anticipate the game theory approach suggests that one bet non-dominant (though playable) hands at an expected value that prevents other players from recklessly calling. In other words, not only must the hand be valued properly, ... 
+
+[I'm gonna have to create the matrix of values.]

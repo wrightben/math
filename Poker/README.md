@@ -9,3 +9,6 @@ Most of the elementary theory on poker explains why folding is usually a good id
 * low values
 * few "outs"
 etc.
+
+### Betting Theory (Expected Value)
+Some theory explains how to be to "communicate" the value of your hand to convince other people to fold.

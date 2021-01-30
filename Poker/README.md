@@ -1,4 +1,4 @@
-Poker
+# Poker
 
 Sit at a table of 6 people. The odds of winning each hand is 1 in 6.
 

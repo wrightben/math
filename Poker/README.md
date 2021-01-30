@@ -12,3 +12,7 @@ etc.
 
 ### Betting Theory (Expected Value)
 Some theory explains how to bet to "communicate" the value of your hand to convince other people to fold. In some cases, under valuing your hand can increase the opponents' bets, improving the economic value of the play.
+
+### Game Theory Nonsense
+Because the 6 players do not know each others' hands, communicating or feigning values is a primary component of play.
+

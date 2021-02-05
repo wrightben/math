@@ -14,6 +14,8 @@ I was able to estimate from my experience that my ball speed is about 38mph. Fro
 
 Using the best angle (43), 100 feet isn't possible at a velocity less than 38mph. I'm likely generating a little more velocity (38 instead of 32) from my coil when I throw outside. 
 
+From the calculator:
+
 #### Velocity on distance
 - 38 mph, 102.6 feet, 43 degrees
 - 50 mph, 173.1 feet, 43 degrees

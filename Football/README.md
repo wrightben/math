@@ -16,7 +16,7 @@ Using the best angle (43), 100 feet isn't possible at a velocity less than 38mph
 
 #### Velocity on distance
 - 38 mph, 102.6 feet, 43 degrees
-- 50 mph, 173.1 feet, 43 degrees <sup>1</sup>
+- 50 mph, 173.1 feet, 43 degrees
 
 #### Angle of attack on distance <sup>1</sup>
 - 50 mph, 154.6 feet (51 yards), 30 degrees

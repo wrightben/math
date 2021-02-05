@@ -19,11 +19,11 @@ Using the best angle (43), 100 feet isn't possible at a velocity less than 38mph
 - 50 mph, 173.1 feet, 43 degrees <sup>1</sup>
 
 #### Angle of attack on distance 
-- 50 mph, 154.6 feet (51 yards), 30 degrees <sup>1</sup>
-- 50 mph, 165.5 feet (55 yards), 35 degrees <sup>1</sup>
-- 50 mph, 173.1 feet (57 yards), 43 degrees <sup>1</sup>
+- 50 mph <sup>1</sup>, 154.6 feet (51 yards), 30 degrees
+- 50 mph <sup>1</sup>, 165.5 feet (55 yards), 35 degrees
+- 50 mph <sup>1</sup>, 173.1 feet (57 yards), 43 degrees
 
- <sup>1</sup> Using the calculator at 
+<sup>1</sup> Using the calculator at<br />
 https://www.omnicalculator.com/physics/trajectory-projectile-motion <br/>
 https://www.omnicalculator.com/physics/free-fall <br/>
 https://www.google.com/search?q=fps+to+mph <br/>

@@ -11,7 +11,6 @@ Buy and hold strategies do not exploit the variable intervals.
 ### Misconception and misunderstandings
 
 - A common misconception is that trading on variable intervals is the same as speculative "market timing". It isn't.
-
 - Buy-and-hold strategies (long-term, risk-averse, non-speculative) presume an average rate of appreciation. No one invests long term with the presumption that the market is perfectly variable, such that they have a 50% or greater chance of getting an average rate of depreciation.
 - Buy-and-hold strategies (long-term) DO go with diversification. Exploiting variable intervals does not seem consistent with diversification.
 

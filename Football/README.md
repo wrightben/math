@@ -12,7 +12,7 @@ I'm not sure how fast junior or amateur football players can throw yet. Baseball
 
 I was able to estimate from my experience that my ball speed is about 38mph. From 6 feet, the ball will hit the ground in .6 seconds. A perfectly horizontal pass across the 8 yards of my living room must be completed in .6 seconds (or less), which puts the velocity at around 48 feet/sec or (32 mph).
 
-Using the best angle (43), 100 feet isn't possible at a velocity less than 38mph. I'm likely generating a little more velocity from my coil when I throw outside. 
+Using the best angle (43), 100 feet isn't possible at a velocity less than 38mph. I'm likely generating a little more velocity (38 instead of 32) from my coil when I throw outside. 
 
 #### Velocity on distance
 38 mph, 102.6 feet, 43 degrees

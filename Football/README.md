@@ -6,7 +6,7 @@ The football pass is a trajectory problem. When the other variables are fixed, *
 
 Training a player to throw at a 43 degree angle is sensible.
 
-I'm not sure how fast junior or amateur football players can throw yet. Baseball pitchers regularly throw 90+ mph fastballs. A pitcher's arm can flow through nearly any patch of motion because the fingers have excellent control of the ball. A football is more difficult to accelerate because of control issues.
+I'm not sure how fast junior or amateur football players can throw yet. Baseball pitchers regularly throw 90+ mph fastballs. A pitcher's arm can flow through nearly any path of motion because the fingers have excellent control of the ball. A football is more difficult to accelerate because of control issues.
 
 ### My Experience
 

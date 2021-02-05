@@ -26,4 +26,4 @@ Using the best angle (43), 100 feet isn't possible at a velocity less than 38mph
 ### Conclusion
 
 1. Throw fast. Velocity is the critical variable.
-2. When maximizing distance, optimizing angle of attack is increasingly important as speed increases.
+2. When maximizing distance, optimizing launch angle is increasingly important as speed increases.

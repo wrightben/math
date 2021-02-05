@@ -15,13 +15,13 @@ I was able to estimate from my experience that my ball speed is about 38mph. Fro
 Using the best angle (43), 100 feet isn't possible at a velocity less than 38mph. I'm likely generating a little more velocity (38 instead of 32) from my coil when I throw outside. 
 
 #### Velocity on distance
-38 mph, 102.6 feet, 43 degrees
-50 mph, 173.1 feet, 43 degrees
+- 38 mph, 102.6 feet, 43 degrees
+- 50 mph, 173.1 feet, 43 degrees
 
 #### Angle of attack on distance
-50 mph, 154.6 feet (51 yards), 30 degrees
-50 mph, 165.5 feet (55 yards), 35 degrees
-50 mph, 173.1 feet (57 yards), 43 degrees
+- 50 mph, 154.6 feet (51 yards), 30 degrees
+- 50 mph, 165.5 feet (55 yards), 35 degrees
+- 50 mph, 173.1 feet (57 yards), 43 degrees
 
 ### Conclusion
 

@@ -33,3 +33,9 @@ https://www.google.com/search?q=feet+to+yard
 
 1. Throw fast. Velocity is the critical variable.
 2. When maximizing distance, optimizing launch angle is increasingly important as speed increases.
+
+## Notes on throwing a Football
+
+Pull the first section of the laces out. The laces are a lever. Thumb and finger (create a pocket), move the hand over the shoulder, aim the ball, press the lever with the finger. Flush. You'll naturally end up with a cross-body, thumbs-down arm motion.
+
+Aim the ball: The angle of the hand controls the nose of the ball; The nose has to be pointing at the target. Pushing the lever creates the spiral. The position of the arm over the shoulder, like a hand of a clock, determines the angle of the ball. The speed of the arm creates the velocity.

@@ -4,9 +4,9 @@
 
 The football pass is a trajectory problem. When the other variables are fixed, **the best launch angle seems to be between 41 and 46 degrees** when the football is thrown between 10-100 mph, with lower angles coinciding with lower speeds.
 
-Training a player to throw at a 43 degree angle is sensible.
+Training a player to throw somewhere between 30-43 degree angle is sensible.
 
-I'm not sure how fast junior or amateur football players can throw yet. Baseball pitchers regularly throw 90+ mph fastballs. A pitcher's arm can flow through nearly any path of motion because the fingers have excellent control of the ball. A football is more difficult to accelerate because of control issues.
+I'm not sure how fast junior or amateur football players can throw yet. A pitcher's arm can flow through nearly any path of motion because the fingers have excellent control of the ball. A football is more difficult to accelerate because of control issues.
 
 ### My Experience
 
@@ -36,6 +36,6 @@ https://www.google.com/search?q=feet+to+yard
 
 ## Notes on throwing a Football
 
-Pull the first section of the laces out. The laces are a lever. Thumb and finger (create a pocket), move the hand over the shoulder, aim the ball, press the lever with the finger. Flush. You'll naturally end up with a cross-body, thumbs-down arm motion.
+Pull the first section of the laces out. The laces are a lever. As the arm travels through a natural throwing motion, the conscious effort to apply torque to the laces will naturally create a cross-body, thumbs-down arm motion.
 
-Aim the ball: The angle of the hand controls the nose of the ball; The nose should to be pointing at the target. Pushing the lever creates the spiral. The position of the arm over the shoulder, like a hand of a clock, determines the trajectory of the ball. The speed of the arm creates the velocity.
+Aiming the ball: The angle of the hand controls the nose of the ball; The nose should to be pointing at the target. The torque applied by the fingers, perpendicular to the laces creates the spiral. The position of the arm over the shoulder, like a hand of a clock, determines the trajectory of the ball. The speed of the arm creates the velocity.

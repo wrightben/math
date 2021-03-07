@@ -38,4 +38,4 @@ https://www.google.com/search?q=feet+to+yard
 
 Pull the first section of the laces out. The laces are a lever. As the arm travels through a natural throwing motion, the conscious effort to apply torque to the laces will naturally create a cross-body, thumbs-down arm motion.
 
-Aiming the ball: The angle of the hand controls the nose of the ball; The nose should to be pointing at the target. The torque applied by the fingers, perpendicular to the laces creates the spiral. The position of the arm over the shoulder, like a hand of a clock, determines the trajectory of the ball. The speed of the arm creates the velocity.
+Aiming the ball: The torque applied by the fingers, perpendicular to the laces creates the spiral. The position of the arm over the shoulder, like a hand of a clock, determines the trajectory of the ball. The speed of the arm creates the velocity. The angle of the hand controls the nose of the ball; The nose should to be pointing at the target. This last point is important, but the least conscious component of an accurate throw.

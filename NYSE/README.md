@@ -1,5 +1,6 @@
 # NYSE
 
+### Theory
 #### Consider: 
 Purchase stock on Jan 1. Sell on Dec 31. Assume 3% (or market rate) appreciation over the year.
 

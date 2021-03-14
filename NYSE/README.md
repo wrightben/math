@@ -1,14 +1,12 @@
 # NYSE
 
 ### Theory
-#### Consider: 
-Purchase stock on Jan 1. Sell on Dec 31. Assume 3% (or market rate) appreciation over the year.
+ 
+**Consider:** Purchase stock on Jan 1. Sell on Dec 31. Assume 3% (or market rate) appreciation over the year. Now consider the fluctuating price of your stock during the year.
 
-Now consider the fluctuating price of your stock during the year. Buy and hold strategies do not exploit this volatility. 
+Buy and hold strategies do not exploit this volatility. 
 
-Purchase additional shares when the market price is below the price paid. Sell all shares when the market price is above the price paid.
-
-Use cycles of 2%. Or *lower* if your position supports it.
+Purchase additional shares when the market price is below the price paid. Sell all shares when the market price is above the price paid. Use cycles of 2%. Or *lower* if your position supports it.
 
 ----
 

@@ -7,6 +7,8 @@ Now consider fluctuating prices. Purchase additional shares when the market pric
 
 Buy and hold strategies do not exploit the variable intervals.
 
+----
+
 ![NYSE:MSFT](https://github.com/wrightben/math/blob/master/NYSE/img/msft.png)
 ![2% Logarithm](https://github.com/wrightben/math/blob/master/NYSE/img/log.png)
 

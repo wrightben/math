@@ -1,11 +1,13 @@
 # NYSE
 
-Consider: 
-Purchase stock at A and sell at B. B is 3% per year higher than A. The appreciation is perfectly linear and positive.
+#### Consider: 
+Purchase stock on Jan 1. Sell on Dec 31. Over the entire year, assume 3% (or market rate) appreciation.
 
-Now consider fluctuating prices. Purchase additional shares when the market price is below the price paid. Sell all shares when the market price is above the price paid.
+Now consider the fluctuating price during the year. Buy and hold strategies do not exploit this volatility. 
 
-Buy and hold strategies do not exploit the variable intervals.
+Purchase additional shares when the market price is below the price paid. Sell all shares when the market price is above the price paid. Use cycles of 2%.
+
+.
 
 ----
 

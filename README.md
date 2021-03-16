@@ -4,9 +4,6 @@
 Running pace calculators (and conversions); Mortgage calculators; Bicycle gears, etc.
 
 
-
-
-
-## FUN
+## Fun
 
 *Rubber Band Target Practice.gcx* — Shoot rubber bands at my monitor

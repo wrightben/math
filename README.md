@@ -1,5 +1,9 @@
 # math
-Notes on everyday math things: Running pace calculators (and conversions); Mortgage calculators; Bicycle gears, etc.
+
+## Notes on everyday math things
+Running pace calculators (and conversions); Mortgage calculators; Bicycle gears, etc.
+
+
 
 
 

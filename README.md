@@ -2,6 +2,7 @@
 
 ## Notes on everyday math things
 
+#### Files
 1. **Math Notes.html** — A collection of notes about problems in my math textbooks<sup>1</sup>
 2. **Rubber Band Target Practice.gcx** — Shoot rubber bands at my monitor
 

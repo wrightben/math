@@ -14,7 +14,7 @@ Running pace calculators and conversions; Mortgage calculators; Bicycle gears; H
 
 <sup>1</sup> I think a problem *with* my math textbook is that half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Think about it: **Half** of the math problems in an *instructional* book have no instructions and no answers.
 
-What if IKEA furniture came with instruction manuals that only contained the question: How would you assemble this furniture? Teachers, students, parents, and taxpayers in the US just accept this, even as we collectively encourage young people to pursue education and allocate millions to help them.
+What if IKEA furniture came with instruction manuals that only contained the question: How would you assemble this furniture? Teachers, students, parents, and taxpayers in the States just accept this, even as we collectively encourage young people to pursue education and allocate millions to help them.
 
 Modern user experience and performance psychology are missing from these books, which is frustrating because they're supposed to be instructional, and they're supposedly edited and published every year. They're bizarrely expensive for little reason.
 

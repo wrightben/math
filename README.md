@@ -18,4 +18,4 @@ What if IKEA furniture came with instruction manuals that only contained the que
 
 Modern user experience and performance psychology are missing from these books, which is frustrating because they're supposed to be instructional, and they're supposedly edited and published every year. They're bizarrely expensive for little reason.
 
-Much of daily-use math is symbolic—it's a language, which makes sharing it implicitly and unnecessarily tedius. I'm increasingly in favor of teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math.
+Much of daily-use math is symbolic—it's a language, which makes sharing it unnecessarily tedius. I'm increasingly in favor of teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math.

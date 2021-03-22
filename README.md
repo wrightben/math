@@ -16,6 +16,6 @@ Running pace calculators and conversions; Mortgage calculators; Bicycle gears; H
 
 What if IKEA furniture came with instruction manuals that only contained the question: How would you assemble this furniture? Teachers, students, parents, and taxpayers in the US just accept this, even as we collectively encourage young people to pursue education and allocate millions to help them.
 
-Modern user experience and performance psychology are missing from these books, which is frustrating because they're supposed to be instructional, and they're supposedly edited and published every year. Plus, they're bizarrely expensive.
+Modern user experience and performance psychology are missing from these books, which is frustrating because they're supposed to be instructional, and they're supposedly edited and published every year. They're bizarrely expensive for little reason.
 
 Much of daily-use math is symbolic—it's a language, which makes sharing it implicitly and unnecessarily tedius. I'm increasingly in favor of teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math.

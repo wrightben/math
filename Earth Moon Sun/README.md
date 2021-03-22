@@ -1,7 +1,7 @@
 ## How the Earth and Moon move
 Everything is counter clockwise. Learning more about the Earth, moon, and Sun gave me anxiety; It gave me real Space-is-not-like-that-PBS-special-I-saw-as-a-kid anxiety.
 
-Here's a hint: The Sun doesn't rise. The Earth--all 24,000 miles of its circumference--spins around at 1000mph so that you can see the Sun again each day. Light, dark, light, dark ... 24 hours ... spin, spin, spin. If it was possible to put 50,000 people on a space ship, how might the ship travel through space and how might life function on board? What about 8 *billion* people? Enjoy the ride!
+Here's a hint: The Sun doesn't rise. The Earth--all 24,000 miles of its circumference--spins around at 1000mph so that you can see the Sun again each day. Light, dark, light, dark ... 24 hours ... spin, spin, spin. If NASA were to put 50,000 people on a spacecraft, how might the ship travel through space and how might people live on board? Now think about 8 *billion* people on the orbiting ride called Earth? Enjoy the view!
 
 Also, the moon isn't only out at night. And though it appears to be going the same direction as the Sun appears to be going (E to W), it isn't. The moon is going the same way we are. We're just going faster.
 

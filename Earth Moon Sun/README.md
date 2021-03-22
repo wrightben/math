@@ -13,6 +13,6 @@ A single air particle has less mass than both a tennis ball and a feather. But a
 
 No vacuum needed to convince someone that a bowling ball and a fusion hit the ground at the same time?
 
-I think the feather/bowling ball demonstration done by NASA (or whomever owns that giant vacuum) is neat, but it's a terrible introduction to Physics for people with ordinary experience in every-day life.
+I think the feather/bowling ball demonstration done by NASA (or whomever owns that giant vacuum) is neat, but it's a terrible introduction to Physics for people with ordinary experience in everyday life.
 
 The shocking part about gravity isn't that it accelerates everything similarly. It's that the acceleration is continual. Most things, like cars and planes, have limits to their acceleration. They can increase the rate of change of velocity until they can't. Gravity doesn't seem to have any such limits. (In my pre-physics understanding.) The almost unlimited acceleration gravity provides is shocking in the same way that it's shocking that the Earth—all 24,000 miles of its diameter—is going faster than a jet.

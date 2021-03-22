@@ -12,4 +12,4 @@ Running pace calculators and conversions; Mortgage calculators; Bicycle gears; H
 
 ---
 
-<sup>1</sup> I think a problem *with* my math textbook is that half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Modern user experience and performance psychology are missing from these books, which is frustrating because they're supposed to be instructional, and they're supposedly edited and published every year. Plus, they're bizarrely expensive.
+<sup>1</sup> I think a problem *with* my math textbook is that half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Think about it: 50% of the math problems in an *instructional* book have no instructions and no answers. Modern user experience and performance psychology are missing from these books, which is frustrating because they're supposed to be instructional, and they're supposedly edited and published every year. Plus, they're bizarrely expensive.

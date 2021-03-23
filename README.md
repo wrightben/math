@@ -3,7 +3,6 @@
 ## Notes on everyday math things
 
 #### Files
-- **Addition Multiplication Exponents.numbers** — A simple example of how these operations are connected.
 - **Math Notes.html** — A collection of notes about problems *in*<sup>1</sup> my math textbooks.
 - **Rubber Band Target Practice.gcx** — Shoot rubber bands at my monitor
 

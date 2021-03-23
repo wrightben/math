@@ -3,7 +3,7 @@
 ## Notes on everyday math things
 
 #### Files
-- **Addition Multiplication Exponents.numbers** — 2 increases by addition, multiplication, and exponents, and how the ops are connected.
+- **Addition Multiplication Exponents.numbers** — A simple example of how these operations are connected.
 - **Math Notes.html** — A collection of notes about problems *in*<sup>1</sup> my math textbooks.
 - **Rubber Band Target Practice.gcx** — Shoot rubber bands at my monitor
 

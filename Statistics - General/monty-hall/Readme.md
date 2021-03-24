@@ -31,12 +31,9 @@ Here is why: With 3 doors, there are only 6 possible outcomes. They look like th
 
 | 1  | 2 | 3  |
 | ------------- | ------------- | ------------- |
-| √  | b | c |
-| √  | c | b |
-| a | √  | c |
-| c | √  | a |
-| a | b | √  |
-| b | a | √  |
+| √  | · | · |
+| · | √  | · |
+| · | · | √  |
 
 <br />
 

@@ -26,4 +26,4 @@ Statistically, the best strategy is to choose a door, and then claim the other p
 
 ## Computers
 
-Computers (and the basic math they do) say that this strategy wins two-thirds, or 66%, of the time.
+Computers (and the basic math they do) say that this choose-and-swap strategy wins two-thirds, or 66%, of the time.

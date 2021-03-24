@@ -9,7 +9,7 @@ Then a door is removed.
 
 The other person, with two doors, always has at least one door without a prize, and removing it reduces his doors from two to one. This creates the appearance of 1:1 odds against the contestant, and the perception of inferior equity is **incorrectly** equalized. However, the likelihood created by the contestant's initial choice is unchanged. It's as if the other person still has two doors and a 2/3 likelihood of having the winning door.
 
-Then the second choice: pick either your door or the other person's remaining door.
+Then the second choice: pick either the previously chosen door or the other person's remaining door.
 
 ### Choices
 

@@ -13,9 +13,9 @@ Why? See the table. The person with two doors, with the likelihood of 2-in-3, al
 
 | Result | 1 | 2 | 3 |
 | ------------- | ------------- | ------------- | ------------- |
-| W | √ | · | · |
-| L | · | √ | · |
-| L | · | · | √ |
+| P | √ | · | · |
+| - | · | √ | · |
+| - | · | · | √ |
 
 Then the second choice: pick either the previously chosen door or the other person's remaining door.
 

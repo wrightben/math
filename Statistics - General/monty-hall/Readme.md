@@ -9,11 +9,13 @@ Then a door is removed.
 
 The other person, with two doors, always has at least one door without a prize, and removing it reduces his doors from two to one. And doing so creates the appearance of 1:1 odds against the contestant, **incorrectly** equalizing the contestant's perception of inferior equity. However, the likelihood created by the contestant's initial choice is unchanged. It's as if the other person still has two doors and a 2-in-3 likelihood of having the door with a prize.
 
-| Choice: 1 | 1 | 2 | 3 |
-| ------------- | ------------- | ------------- | ------------- |
-| W | √ | · | · |
-| L | · | √ | · |
-| L | · | · | √ |
+Why?
+
+| 1 | 2 | 3 |
+| ------------- | ------------- | ------------- |
+| √ | · | · |
+| · | √ | · |
+| · | · | √ |
 
 Then the second choice: pick either the previously chosen door or the other person's remaining door.
 
@@ -42,6 +44,6 @@ Computers (and the basic math they do) say the choose-and-swap strategy wins two
 <br />
 
 ## Questions
-So here are interesting questions:
+Interesting questions:
 - Why did I react the way I did when it was suggested that I could *improve* my odds by following the suggested strategy? In fact, that's what made the problem so interesting: The stubborn belief that it was not possible to do any better. Yet, I *was* curious enough to consider the strategist's perspective until I understood the problem.
 - 

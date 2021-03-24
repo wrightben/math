@@ -23,7 +23,7 @@ Other person — Door 2 and Door 3 (66% chance of prize)
 ### Strategy
 Statistically, the best strategy is to choose a door, and then claim the other person's two doors with the second choice.
 
-Whether or not you believe the second choice is one of 1:2 or 1:1, choosing the other person's door is always sensible. The odds are no worse for the contestant's lack of understanding by doing so.
+Believing the second choice is either one of 1:2 or 1:1 shouldn't alter your strategy—choosing the other person's door is always sensible. The odds are no worse for the contestant's lack of understanding by doing so.
 
 <br />
 

@@ -1,7 +1,7 @@
 # Monty Hall
 
 ## Game
-There are 3 doors. A contestant is offered a choice: pick a door. Once the contestant has chosen a door, one of the two doors that were not chosen are removed. Then the contestant is offered a second choice: pick your door or the other remaining door.
+There are 3 doors. A contestant is offered a choice: pick a door. Once the contestant has chosen a door, one of the remaining two doors is removed. Then the contestant is offered a second choice: pick your door or the other remaining door.
 
 The statistics is persuasively shared in the perception of equity. Think of the game show as another person. If you, as the contestant, choose a door, the other person now has two doors. It should be immediately obvious that the other person has a better chance of winning whatever prize may be behind the doors.
 

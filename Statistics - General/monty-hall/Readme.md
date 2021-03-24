@@ -9,6 +9,12 @@ Then a door is removed.
 
 The other person, with two doors, always has at least one door without a prize, and removing it reduces his doors from two to one. And doing so creates the appearance of 1:1 odds against the contestant, **incorrectly** equalizing the contestant's perception of inferior equity. However, the likelihood created by the contestant's initial choice is unchanged. It's as if the other person still has two doors and a 2-in-3 likelihood of having the door with a prize.
 
+| 1  | 2 | 3  |
+| ------------- | ------------- | ------------- |
+| √  | · | · |
+| · | √  | · |
+| · | · | √  |
+
 Then the second choice: pick either the previously chosen door or the other person's remaining door.
 
 ### Choices
@@ -26,14 +32,6 @@ Other person — Door 2 and Door 3 (66% chance of prize)
 The best strategy is to choose a door and then claim the other person's two doors with the second choice.
 
 Whatever one believes, the second choice has odds of either 1:1 or 1:2. Both are consistent with the suggested strategy. Choosing the other person's door is always sensible.
-
-Here is why: With 3 doors, there are only 6 possible outcomes. They look like this:
-
-| 1  | 2 | 3  |
-| ------------- | ------------- | ------------- |
-| √  | · | · |
-| · | √  | · |
-| · | · | √  |
 
 <br />
 

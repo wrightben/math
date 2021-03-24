@@ -5,7 +5,7 @@ There are 3 doors. A contestant is offered a choice: pick a door. Once the conte
 
 The statistics is persuasively shared in the perception of equity. Think of the game show as another person. If you, as the contestant, choose a door, the other person now has two doors. It should be immediately obvious that the other person has a better chance of winning whatever prize may be behind the doors.
 
-The other person has two doors. One of his or her doors must not have a prize. That's the door that is removed. The other person, with two doors, always has at least one without a prize, and removing it creates the perception that he or she now has only one door.
+The other person, with two doors, always has at least one without a prize, and removing it creates the perception that he or she now has only one door.
 
 Then the second choice: do you want your door or the other person's door?
 

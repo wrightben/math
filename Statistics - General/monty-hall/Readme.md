@@ -28,3 +28,7 @@ Statistically, the best strategy is to choose a door, and then claim the other p
 ## Computers
 
 Computers (and the basic math they do) say the choose-and-swap strategy wins two-thirds, or 66%, of the time.
+
+## Human Idiocy
+
+For those who claim that the initial statistics *are not* affected by removing the door, how would following the strategy of choosing the other person's door diminish their probability of winning. In other words, whether or not, as the contestant, you believe your second choice creates a 66% or 50% probability of winning, why would you *not* choose the other person's door?

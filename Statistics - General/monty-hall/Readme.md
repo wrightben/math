@@ -31,4 +31,4 @@ Computers (and the basic math they do) say the choose-and-swap strategy wins two
 
 ## Human Idiocy
 
-For those who claim that the initial statistics *are* affected by removing the door, how would following the strategy of choosing the other person's door be affected? In other words, whether or not, as the contestant, you believe your second choice creates a 66% or 50% probability of winning, why *not* choose the other person's door?
+For those who claim that the initial statistics *are* affected by removing the door, how would following the strategy of choosing the other person's door be affected? In other words, whether or not, as the contestant, you believe your second choice creates a 66% or 50% probability of choosing a door with a prize, why *not* choose the other person's door?

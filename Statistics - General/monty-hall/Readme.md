@@ -29,7 +29,8 @@ Whatever one believes, the second choice has odds of either 1:1 or 1:2. Both are
 
 Here is why: With 3 doors, there are only 6 possible outcomes. They look like this:
 
-
+| 1  | 2 | 3  |
+| ------------- | ------------- | ------------- |
 | √  | · | · |
 | · | √  | · |
 | · | · | √  |

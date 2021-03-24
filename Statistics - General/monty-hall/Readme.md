@@ -11,9 +11,9 @@ The other person, with two doors, always has at least one door without a prize, 
 
 | Choice: 1 | 2 | 3  |
 | ------------- | ------------- | ------------- |
-| √ | · | · |
-| · | √ | · |
-| · | · | √ |
+| W | · | · |
+| L | √ | · |
+| L | · | √ |
 
 Then the second choice: pick either the previously chosen door or the other person's remaining door.
 

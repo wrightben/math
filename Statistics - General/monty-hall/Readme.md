@@ -11,7 +11,7 @@ The other person, with two doors, always has at least one door without a prize, 
 
 Why? See the table. The person with two doors, with the likelihood of 2-in-3, always has one "row" to give away without affecting the likelihood
 
-| Result | 1 | 2 | 3 |
+| Outcome | D1 | D2 | D3 |
 | ------------- | ------------- | ------------- | ------------- |
 | R1 | √ | · | · |
 | R2 | · | √ | · |

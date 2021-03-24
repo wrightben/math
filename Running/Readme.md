@@ -1,1 +1,1 @@
-- **Pace Calculator - conversions.numbers** — Convert pace (Min per mile) and distance to total time, mph, fps, and 40-yard dash time.
+- **Pace Calculator - conversions.numbers** — Convert pace (minutes per mile) and distance to total time, mph, fps, and 40-yard dash time.

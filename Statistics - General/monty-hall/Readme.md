@@ -28,7 +28,7 @@ Statistically, the best strategy is to choose a door and then claim the other pe
 Whatever one believes, the second choice has odds of either 1:1 or 1:2. Both are consistent with the suggested strategy. Choosing the other person's door is always sensible.
 
 So here are interesting questions:
-- Why did I react the way I did when it was suggested that I could *improve* my odds by following the suggested strategy and stubbornly try to persuade myself that my perception of a 50-50 chance of winning with the first-chosen door was as good as any?
+- Why did I react the way I did when it was suggested that I could *improve* my odds by following the suggested strategy and stubbornly try to persuade myself that my perception of a 50-50 chance of winning with the first-chosen door was as good as any? In fact, that's what made the problem so interesting: The belief that it could not possibly be true that I could do any better.
 - 
 
 <br />

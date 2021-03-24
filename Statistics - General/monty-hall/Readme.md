@@ -37,5 +37,5 @@ Computers (and the basic math they do) say the choose-and-swap strategy wins two
 
 ## Questions
 So here are interesting questions:
-- Why did I react the way I did when it was suggested that I could *improve* my odds by following the suggested strategy? In fact, that's what made the problem so interesting: The stubborn belief that it was not possible to do any better. Yet, I *was* curious enough to consider the strategist's perspective until I eventually understand the problem.
+- Why did I react the way I did when it was suggested that I could *improve* my odds by following the suggested strategy? In fact, that's what made the problem so interesting: The stubborn belief that it was not possible to do any better. Yet, I *was* curious enough to consider the strategist's perspective until I understood the problem.
 - 

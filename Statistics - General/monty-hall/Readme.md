@@ -27,12 +27,15 @@ Statistically, the best strategy is to choose a door and then claim the other pe
 
 Whatever one believes, the second choice has odds of either 1:1 or 1:2. Both are consistent with the suggested strategy. Choosing the other person's door is always sensible.
 
-So here are interesting questions:
-- Why did I react the way I did when it was suggested that I could *improve* my odds by following the suggested strategy? In fact, that's what made the problem so interesting: The stubborn belief that it was not possible to do any better.
-- 
-
 <br />
 
 ## Computers
 
 Computers (and the basic math they do) say the choose-and-swap strategy wins two-thirds, or 66%, of the time.
+
+<br />
+
+## Questions
+So here are interesting questions:
+- Why did I react the way I did when it was suggested that I could *improve* my odds by following the suggested strategy? In fact, that's what made the problem so interesting: The stubborn belief that it was not possible to do any better.
+- 

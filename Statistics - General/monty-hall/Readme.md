@@ -27,6 +27,17 @@ The best strategy is to choose a door and then claim the other person's two door
 
 Whatever one believes, the second choice has odds of either 1:1 or 1:2. Both are consistent with the suggested strategy. Choosing the other person's door is always sensible.
 
+Here is why: With 3 doors, there are only 6 possible outcomes. They look like this:
+
+| 1  | 2 | 3  |
+| ------------- | ------------- | ------------- |
+| √  | · | · |
+| √  | · | · |
+| · | √  | · |
+| · | √  | · |
+| · | · | √  |
+| · | · | √  |
+
 <br />
 
 ## Computers

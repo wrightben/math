@@ -13,7 +13,7 @@ Removing a door is a trick. The second choice offers you the opportunity of havi
 
 **Choice**: Select door 1, 2, or 3
 
-You: Door 1 (33% chance of winning)
+You: Door 1 (33% chance of winning)<br />
 Other person: Door 2 and Door 3 (66% chance of winning)
 
 Either door 2 or door 3 MUST NOT have the prize, so remove it.

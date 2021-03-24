@@ -7,6 +7,8 @@ The statistics is persuasively shared in the perception of equity. Think of the 
 
 The other person, with two doors, always has at least one door without a prize, and removing it reduces his doors from two to one. However, when a door without a prize is removed, the perception of inferior equity is **incorrectly** equalized.
 
+Removing a door without a prize does not reduce the likelihood of 2/3 that the other person's remaining door has a prize behind it. So the perception of equity changes, but the likelihood created by the initial choice is unchanged.
+
 Then the second choice: pick either your door or the other person's door.
 
 ### Choices
@@ -18,9 +20,7 @@ Other person — Door 2 and Door 3 (66% chance of prize)
 
 **Then**: Either door 2 or door 3 MUST NOT have the prize, so remove it.
 
-**Choice**: Select either your door or the other person's door. 
-
-A door was removed, but it was a door without a prize. The other person, with two doors, always has at least one without a prize. Removing a door without a prize does not reduce the likelihood of 2/3 that the other person's remaining door has a prize behind it.
+**Choice**: Select either your door or the other person's door.
 
 ### Strategy
 Statistically, the best strategy is to choose a door and then claim the other person's two doors with the second choice.

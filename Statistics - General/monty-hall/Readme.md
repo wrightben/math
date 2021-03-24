@@ -18,7 +18,7 @@ Other person — Door 2 and Door 3 (66% chance of prize)
 
 **Then**: Either door 2 or door 3 MUST NOT have the prize, so remove it.
 
-**Choice**: Select either your door or the other person's door.
+**Choice**: Select either your door or the other person's remaining door.
 
 ### Strategy
 Statistically, the best strategy is to choose a door and then claim the other person's two doors with the second choice.

@@ -7,7 +7,7 @@ The statistics is persuasively shared in the perception of equity. Think of the 
 
 The other person, with two doors, always has at least one without a prize, and removing it creates the perception that he or she now has only one door. When the door is removed, the perception of inferior equity is incorrectly equalized.
 
-Then the second choice: do you want your door or the other person's door?
+Then the second choice: pick either your door or the other person's door.
 
 ### Choices
 

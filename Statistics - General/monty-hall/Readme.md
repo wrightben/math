@@ -21,14 +21,12 @@ Other person — Door 2 and Door 3 (66% chance of prize)
 **Choice**: Select either your door or the other person's two doors. (A door was removed, but it was a door without a prize. A contestant with two doors always has at least one without a prize.)
 
 ### Strategy
-Statistically, the best strategy is to choose a door, and then claim the other person's two doors with your second choice.
+Statistically, the best strategy is to choose a door, and then claim the other person's two doors with your second choice.\
+
+Whether or not you believe the second choice is one of 1:2 or 1:1, choosing the other person's door is always sensible. The odds are no worse for your lack of understanding by doing so.
 
 <br />
 
 ## Computers
 
 Computers (and the basic math they do) say the choose-and-swap strategy wins two-thirds, or 66%, of the time.
-
-## Human Idiocy
-
-For those who claim that the initial statistics *are* affected by removing the door, how would following the strategy of choosing the other person's door be affected? In other words, whether or not, as the contestant, you believe your second choice creates a 66% or 50% probability of choosing a door with a prize, why *not* choose the other person's door?

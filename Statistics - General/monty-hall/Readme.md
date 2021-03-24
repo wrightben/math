@@ -25,6 +25,7 @@ Either door 2 or door 3 MUST NOT have the prize, so remove it.
 So, statistically, the best strategy is to choose a door at random, and then claim the other person's two doors with your second choice.
 
 <br />
+
 ## Computers
 
 Computers (and the basic math they do) say that this strategy wins two-thirds, or 66%, of the time.

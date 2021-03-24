@@ -15,7 +15,7 @@ Then the second choice: pick either the previously chosen door or the other pers
 
 **Choice**: Select door 1, 2, or 3
 
-You — Door 1 (33% chance of prize)<br />
+Contestant — Door 1 (33% chance of prize)<br />
 Other person — Door 2 and Door 3 (66% chance of prize)
 
 **Then**: Either door 2 or door 3 MUST NOT have the prize, so remove either door that does not.

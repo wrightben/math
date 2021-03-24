@@ -20,7 +20,7 @@ Either door 2 or door 3 MUST NOT have the prize, so remove it.
 
 **Choice**: Select either your door or the other person's two doors. (One was removed, but it was one without a prize. A contestant with two doors always has at least one without a prize.)
 
-So, statistically, the best strategy is to choose a door at random, and then claim the other person's two doors with your second choice.
+Statistically, the best strategy is to choose a door, and then claim the other person's two doors with your second choice.
 
 <br />
 

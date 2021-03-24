@@ -16,7 +16,7 @@ Then the second choice: do you want your door or the other person's door?
 You — Door 1 (33% chance of prize)<br />
 Other person — Door 2 and Door 3 (66% chance of prize)
 
-Either door 2 or door 3 MUST NOT have the prize, so remove it.
+**Then**: Either door 2 or door 3 MUST NOT have the prize, so remove it.
 
 **Choice**: Select either your door or the other person's two doors. (One was removed, but it was one without a prize. A contestant with two doors always has at least one without a prize.)
 

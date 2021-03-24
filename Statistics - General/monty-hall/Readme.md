@@ -11,7 +11,7 @@ The other person, with two doors, always has at least one door without a prize, 
 
 | 1  | 2 | 3  | Choice  |
 | ------------- | ------------- | ------------- | ------------- |
-| √  | · | · | · |
+| √  | · | · | x |
 | · | √  | · | · |
 | · | · | √  | · |
 

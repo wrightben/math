@@ -23,7 +23,7 @@ Other person — Door 2 and Door 3 (66% chance of prize)
 **Choice**: Select either the previously chosen door or the other person's remaining door.
 
 ### Strategy
-Statistically, the best strategy is to choose a door and then claim the other person's two doors with the second choice.
+The best strategy is to choose a door and then claim the other person's two doors with the second choice.
 
 Whatever one believes, the second choice has odds of either 1:1 or 1:2. Both are consistent with the suggested strategy. Choosing the other person's door is always sensible.
 

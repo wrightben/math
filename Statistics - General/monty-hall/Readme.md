@@ -5,7 +5,9 @@ There are 3 doors. A contestant is offered a choice: pick a door. Once the conte
 
 The statistics is persuasively shared in the perception of equity. Think of the game show as another person. If you, as the contestant, choose a door, the other person now has two doors. It should be immediately obvious that the other person has a better chance of winning whatever prize may be behind the doors.
 
-The other person, with two doors, always has at least one door without a prize, and removing it reduces his doors from two to one. However, when a door without a prize is removed, the perception of inferior equity is **incorrectly** equalized. However, the likelihood created by the initial choice is unchanged. It's as if the other player still has two doors.
+Then a door is removed.
+
+The other person, with two doors, always has at least one door without a prize, and removing it reduces his doors from two to one. This creates the appearance of 1:1 odds against the contestant, and the perception of inferior equity is **incorrectly** equalized. However, the likelihood created by the contestants initial choice is unchanged. It's as if the other person still has two doors and a 2/3 likelihood of having the winning door.
 
 Then the second choice: pick either your door or the other person's remaining door.
 

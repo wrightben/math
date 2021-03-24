@@ -3,7 +3,7 @@
 ## Game
 There are 3 doors. A contestant is offered a choice: pick a door. Once the contestant has chosen a door, one of the non-chosen doors is removed. Then the contestant is offered a second choice: pick the previously chosen door or the other remaining door.
 
-The initial situation is persuasively conveyed by a natural perception of equity. Think of the game show as another person. If you, as the contestant, choose a door with your first choice, the other person then has two doors. It should be immediately obvious that the other person has a better chance of winning whatever prize may be behind the doors.
+The situation after the first choice is persuasively conveyed by a natural perception of equity. Think of the game show as another person. If you, as the contestant, choose a door with your first choice, the other person then has two doors. It should be immediately obvious that the other person has a better chance of winning whatever prize may be behind the doors.
 
 Then a door is removed.
 

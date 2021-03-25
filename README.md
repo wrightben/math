@@ -19,5 +19,3 @@ What if IKEA furniture came with instruction manuals that only contained the que
 Modern user experience and performance psychology are missing from these books, which is frustrating because they're supposed to be instructional, and they're supposedly edited and published every year. They're bizarrely expensive for little reason.
 
 Much of daily-use math is symbolic. Symbolic math is a language, which complicates the otherwise very easy *actual* math. I'm in favor of teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math.
-
-Aviation flight science with a minor in electrical engineering. ... Makes me a fucking animal. Could never do it. Not cut out for either thing.

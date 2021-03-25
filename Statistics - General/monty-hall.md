@@ -42,4 +42,4 @@ If you picked door 1, then the 3 events are:
 - Picked door 1, it doesn't have a prize. Either door 2 or door 3 was closed, whichever didn't have the prize.
 - Picked door 1, it doesn't have a prize. Either door 2 or door 3 was closed, whichever didn't have the prize.
 
-The symbolic math explaining this is so absurd I literally ruined my career over it. I think a teenager could understand this.
+The symbolic math explaining this is so absurd I literally ruined my career over it. I hope this helps someone.

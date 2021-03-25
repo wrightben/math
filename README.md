@@ -3,19 +3,21 @@
 ## Notes on everyday math things
 
 #### Files
-- **Math Notes.html** — A collection of notes about problems *in*<sup>1</sup> my math textbooks.
+- **Math Notes.html** — A collection of notes about problems in my math textbooks.
 - **Rubber Band Target Practice.gcx** — Shoot rubber bands at my monitor
 
 #### Folders
 Running pace calculators and conversions; Mortgage calculators; Bicycle gears; How to: throw a football, trade stocks, play poker, etc.
 
 
----
+## Math Textbooks and Teaching Math to Young Students and Professionals.
 
-<sup>1</sup> I think a problem *with* my math textbook is that half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Think about it: **Half** of the math problems in an *instructional* book have no instructions and no answers.
+Much of daily-use math is symbolic. Symbolic math is a language, which complicates the otherwise very easy *actual* math.
 
-What if IKEA furniture came with instruction manuals that only contained the question: How would you assemble this furniture? Teachers, students, parents, and taxpayers in the U.S. just accept this, even as we collectively encourage young people to pursue education and allocate millions to help them.
+Math textbooks are little help. Half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Think about that: **Half** of the math problems in an *instructional* book have no instructions and no answers.
 
-Modern user experience and performance psychology are missing from these books, which is frustrating because they're supposed to be instructional, and they're supposedly edited and published every year. They're bizarrely expensive for little reason.
+Teachers, students, parents, and taxpayers in the U.S. just accept this, even as we collectively encourage young people to pursue education and allocate millions to help them.
 
-Much of daily-use math is symbolic. Symbolic math is a language, which complicates the otherwise very easy *actual* math. I'm in favor of teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math.
+Khan Academy, unlike most textbooks, has simplified math instruction. It offers easier example problems, has incorporated modern user experience in the presentation of examples, and uses performance psychology to create study habits and reward them.
+
+The improvement I'd suggest to Khan Academy is teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math. Logs, as my primary example, are essentially division, but the symbolism makes them seem much more complicated.

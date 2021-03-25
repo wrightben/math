@@ -18,6 +18,6 @@ Becoming comfortable with math requires practice. Math textbooks are little help
 
 Teachers, students, parents, and taxpayers in the U.S. just accept this, even as we collectively encourage young people to pursue education, especially in math-dependent degrees, and allocate millions to help them.
 
-Khan Academy, unlike most textbooks, has simplified math instruction. The problems are easier. They've incorporated modern user experience in the presentation of examples, and use rewards to create and encourage study habits.
+Khan Academy, unlike most textbooks, has simplified math instruction. The problems are less difficult to understand. They've incorporated modern user experience in the presentation of examples and use rewards to encourage practice.
 
 The improvement I'd suggest to Khan Academy is teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math. Logs, as my primary example, are essentially division, though symbolism makes them seem much more complicated.

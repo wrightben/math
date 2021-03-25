@@ -30,4 +30,16 @@ Whatever one believes, the second choice has odds of either 1:1 or 1:2. Both are
 
 ## Explanation
 
-Just 3 events can happen initially, because there are just 3 doors. The confusing part happens when a door is removed.
+Only 3 things can happen in the first choice:
+Pick door 1.
+Pick door 2.
+Pick door 3.
+
+The second choice is between the chosen door and the remaining door:
+If you picked door 1, then the 3 events are: 
+
+Picked door 1, it has a prize. Either door 2 or door 3 was closed.
+Picked door 1, it doesn't have a prize. Either door 2 or door 3 was closed, whichever didn't have the prize.
+Picked door 1, it doesn't have a prize. Either door 2 or door 3 was closed, whichever didn't have the prize.
+
+The symbolic math explaining this is so absurd I literally ruined my career over it. I think a teenager could understand this.

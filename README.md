@@ -14,9 +14,11 @@ Running pace calculators and conversions; Mortgage calculators; Bicycle gears; H
 
 Much of daily-use math is symbolic. Symbolic math is a language, which complicates the otherwise very easy *actual* math.
 
-Math textbooks are little help. Half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Think about that: **Half** of the math problems in an *instructional* book have no instructions and no answers.
+Math textbooks are little help. They're written in a manner that makes them difficult to understand. If that doesn't sound bad enough, remember that half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Think about that: **Half** of the math problems in *instructional* books sold to *students* have no instructions and no answers.
 
 Teachers, students, parents, and taxpayers in the U.S. just accept this, even as we collectively encourage young people to pursue education and allocate millions to help them.
+
+If you struggle with math, these could be reasons why.
 
 Khan Academy, unlike most textbooks, has simplified math instruction. It offers easier example problems, has incorporated modern user experience in the presentation of examples, and uses performance psychology to create study habits and reward them.
 

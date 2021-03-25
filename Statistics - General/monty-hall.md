@@ -38,8 +38,8 @@ Whatever one believes, the second choice has odds of either 1:1 or 1:2. Both are
 **Choice 2**: Only 3 things can happen:<br />
 If you picked door 1, then the 3 things are: 
 
-- Picked door 1, it has a prize. Either door 2 or door 3 was closed.
-- Picked door 1, it doesn't have a prize. Either door 2 or door 3 was closed, whichever didn't have the prize.
-- Picked door 1, it doesn't have a prize. Either door 2 or door 3 was closed, whichever didn't have the prize.
+- Picked door 1, it has a prize. Either door 2 or door 3 was removed.
+- Picked door 1, it doesn't have a prize. Either door 2 or door 3 was removed, whichever didn't have the prize.
+- Picked door 1, it doesn't have a prize. Either door 2 or door 3 was removed, whichever didn't have the prize.
 
 The symbolic math explaining this is ridiculous. I hope this explanation helps someone else.

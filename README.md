@@ -20,4 +20,4 @@ Teachers, students, parents, and taxpayers in the U.S. just accept this, even as
 
 Khan Academy, unlike most textbooks, has simplified math instruction. The problems are easier. They've incorporated modern user experience in the presentation of examples, and use rewards to create and encourage study habits.
 
-The improvement I'd suggest to Khan Academy is teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math. Logs, as my primary example, are essentially division, but the symbolism makes them seem much more complicated.
+The improvement I'd suggest to Khan Academy is teaching math symbolism in conjunction with, but secondary to, the fundamental skills of addition and subtraction—Like a computer might do math. Logs, as my primary example, are essentially division, though symbolism makes them seem much more complicated.

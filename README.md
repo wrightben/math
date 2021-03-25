@@ -14,7 +14,7 @@ Running pace calculators and conversions; Mortgage calculators; Bicycle gears; H
 
 Much of daily-use math is symbolic. Symbolic math is a language, which complicates the otherwise very simple and intuitive *actual* math.
 
-Math textbooks are little help. They're written in a manner that makes them difficult to understand. If that doesn't seem discouraging, remember that half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Think about that: **Half** of the math problems in *instructional* math books sold to *students* have no instructions and no answers. 
+Getting okay at math requires practice. Math textbooks are little help. They're written in a manner that makes them difficult to understand. If that doesn't seem discouraging, remember that half of the math problems are missing their corresponding instructions for solving. Not even the answers are included. Think about that: **Half** of the math problems in *instructional* math books sold to *students* have no instructions and no answers. 
 
 Teachers, students, parents, and taxpayers in the U.S. just accept this, even as we collectively encourage young people to pursue education, especially in math-required degrees, and allocate millions to help them.
 

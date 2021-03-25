@@ -10,7 +10,7 @@
 Running pace calculators and conversions; Mortgage calculators; Bicycle gears; How to: throw a football, trade stocks, play poker, etc.
 
 
-## Math Textbooks and Teaching Math to Young Students and Professionals.
+## Teaching Math to Young Students and Professionals who struggle with it
 
 Much of daily-use math is symbolic. Symbolic math is a language, which complicates the otherwise very easy *actual* math.
 

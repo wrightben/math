@@ -10,5 +10,5 @@ Most of the elementary theory on poker explains why folding is usually a good id
 ### Betting Theory (Expected Value)
 Some theory explains how to bet to communicate the value of your hand, usually to convince other people to fold. But sometimes to convince others to bet more.
 
-### Game Theory Nonsense (Matrix of values)
+### Game Theory
 Because the 6 players do not know each others' hands, communicating or feigning values is a primary component of play. A fun variation of the game is to play with all of the cards face up. See how many times the winning hole cards can be predicted.

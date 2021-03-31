@@ -14,4 +14,4 @@ Writing code to auto-play poker.
   - Is betting a "language" or is it "math"? (This is the only interesting modern question about the game. All the other questions are about the players, and then, finally, about codifying the players.)
 
 This ultimately leads to the question:
-Is there anything mysterious (read: interesting) about any system that isn't just *your* ignorance? My assumption is no, not in any system I will understand in my lifetime.
+Is there anything mysterious (or interesting) about any system that isn't just *your* ignorance? My assumption is no, not in any system I will understand in my lifetime.

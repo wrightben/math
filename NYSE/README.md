@@ -6,7 +6,7 @@
 
 Buy and hold strategies do not exploit the volatility that happens within a year. 
 
-Purchase additional shares when the market price is below the price paid. Sell all shares when the market price is above the price paid. Use cycles of 2%. Or *lower* if your position supports it. Try to buy and sell once every month.
+Purchase additional shares when the market price is below the price paid. Sell all shares when the market price is above the price paid. Use cycles of 2%. Or *lower* if your position supports it. Try to buy and sell at least once every month.
 
 ----
 

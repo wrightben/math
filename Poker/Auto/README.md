@@ -3,7 +3,7 @@
 Writing code to auto-play poker.
 
 ### To-Do List
-- ✓ Play n hands - n = 500,000
+- ✓ Play n hands: n = 500,000
 - Create a list of questions below:
   - ✓ Which hands win most often (when no one folds): Two Pair, 30% of hands
   - ✓ Is it necessary for auto play to have hands fold? No.

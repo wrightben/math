@@ -3,9 +3,9 @@
 Writing code to auto-play poker.
 
 ### To-Do List
-- √ Play n hands - n = 500,000
+- ✓ Play n hands - n = 500,000
 - Create list of questions
-  - √ Which hands win most often (when no one folds)
+  - ✓ Which hands win most often (when no one folds)
   - Is it necessary for auto play to have hands fold? No. It can be calculated afterward, since hole cards are only relevant as players fold.
     - Possible to play the same hand from every position, with every player as the dealer.
     - How do intermediate likelihoods prevent the "inevitable" winning hand from actually winning?

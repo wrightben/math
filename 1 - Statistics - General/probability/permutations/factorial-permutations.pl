@@ -4,7 +4,7 @@
 $counter = 0;
 
 $l = (a..z)[0];
-$h = (a..z)[10]; # 0-based. (= #LOOPS -1)
+$h = (a..z)[10]; # 0-based (#LOOPS -1)
 
 foreach $1 (${l}..${h}) { 	
 
@@ -86,7 +86,7 @@ foreach $11 (${l}..${h}) { if (
 		$counter ++;
 		print ( $counter, " - ", "{$1 $2 $3 $4 $5 $6 $7 $8 $9 $10 $11}", "\n");
 
-# IFS (= #LOOPS -1)	
+# IFS (#LOOPS -1)	
 }
 }
 }
@@ -98,7 +98,7 @@ foreach $11 (${l}..${h}) { if (
 }
 }
 
-# LOOPS (= highest for-each loop number)
+# LOOPS (11 as in $11)
 }
 }
 }

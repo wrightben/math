@@ -2,7 +2,7 @@
 
 ### Files
 - **factorial-permutations.pl**
-- **for-each-loop-builder.numbers** - Shortcuts for generating permutations 
+- **for-each-loop-builder.numbers** - Shortcuts for the typing of **factorial-permutations.pl**
 
 #### Purpose
 

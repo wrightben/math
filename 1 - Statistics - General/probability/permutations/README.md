@@ -6,7 +6,7 @@
 
 #### Purpose
 
-Knowing the value of nPr does not tell you what the permutations are. This code produces a string of permutations for a range between (a..[b..z]).
+This code produces a string of permutations for a range between (a..[b..z]).
 
 #### Practical Applications
 

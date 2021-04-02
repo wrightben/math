@@ -3,6 +3,8 @@
 ### Files
 - **factorial-permutations.pl**
 - **for-each-loop-builder.numbers** - Shortcuts for the typing of **factorial-permutations.pl**
+	- Copy a list of semi-colons from *that* column. Use the integers in the column to the left to see how many you're copying (or use the numbers indicator)
+	- Copy the *($2 ne $1)	) {* sections from the center columns.
 
 #### Purpose
 

@@ -1,6 +1,8 @@
-## Algorithms for generating permutations
+## Factorial permutations
 
-### About this algorithm (factorial-permutations.pl)
+### Files
+- **factorial-permutations.pl**
+- **for-each-loop-builder.numbers** - Shortcuts for generating permutations 
 
 #### Purpose
 

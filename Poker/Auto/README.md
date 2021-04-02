@@ -3,7 +3,7 @@
 Writing code to auto-play poker.
 
 ### To-Do List
-- Play n hands. 
+√ Play n hands. 
 - Include time stamp
   - Is it possible to affect the timing of the code components such that symptoms are present in a manner that is undetectable? No. But how subtle can they be? My assumption today is that they're not subtle at all, especially in systems dependent on time-sensitive elements.
 - Create list of questions

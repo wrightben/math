@@ -37,3 +37,5 @@ https://www.google.com/search?q=feet+to+yard
 ## Notes on throwing a Football
 
 The position of the arm over the shoulder, like a hand of a clock, determines the angle of the ball toward the sky. The speed of the arm creates the velocity. The angle of the hand (left-right) controls the nose of the ball; The nose should to be pointing at the target. This point is important, but possibly the least conscious component of an accurate throw. The torque applied by the fingers to the laces creates the spiral. The laces are a lever. As the arm travels through a natural throwing motion, the conscious effort to apply torque to the laces will naturally create a cross-body, thumbs-down arm motion.
+
+If the motion of the arm is correct and unchanging, the feeling of the arm motion is more like moving in high-speed rather than pushing hard. A coach might say, "move your arm faster", but a beginner probably can't move faster correctly without first practicing the correct motion.

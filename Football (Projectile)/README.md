@@ -32,7 +32,8 @@ https://www.google.com/search?q=feet+to+yard
 ### Conclusion
 
 1. Throw fast. Velocity is the critical variable.
-2. When maximizing distance, optimizing launch angle is increasingly important as speed increases.
+  - To throw fast, the arm has to move fast.
+3. When maximizing distance, optimizing launch angle is increasingly important as speed increases.
 
 ## Notes on throwing a Football
 

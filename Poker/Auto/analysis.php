@@ -7,7 +7,7 @@
 // 		$line = $argv[1]; // READ FROM COMMAND LINE IF AVAILABLE
 // 	}
 
-//	readFile("hands 2.txt");
+forEachLine("hands 2.txt");
 
 
 
@@ -34,7 +34,9 @@ function processHandStat($line) {
 	// ✓ Is there a Q,K,A?
 	// ✓ Are they suited?
 	// ✓ Are they threatening a straight?
-	// Other stats, like how the cards are affected by the presence of other cards, is relevant even though the other players would not know under ordinary conditions.	
+	// ? Are they the "best" hole cards?
+	// 	? Do the best hole cards usually win?
+	// ? Are there unknown attributes defining "good" hole cards?
 	
 	$nominals = [
 		0,	1,	2,	3,	4,	5,	6,	7,	8,	9,	10,	11,	12, 	// ] nominals
@@ -86,7 +88,7 @@ function processHandStat($line) {
 }
 
 
-function readFile($fh) {
+function forEachLine($fh) {
 	$fn = fopen( $fh ,"r");
 
 	while(! feof($fn))  {

@@ -33,6 +33,9 @@ use POSIX;
 
 # &test();
 
+
+print join "\t", ("hole1","hole2","nominal1","nominal2","facevalue1","facevalue2","high","face","straight","suited","pair");
+print "\n";
 foreach $1 (0 .. 51) {
 	foreach $2 (0 .. 51) {
 		if ($2 ne $1) {
@@ -40,7 +43,7 @@ foreach $1 (0 .. 51) {
 			push @c, $1, $2;
 			@c = sort @c;
 			
-			print join ", ", &getStatus(@c);
+			print join "\t", &getStatus(@c);
 			print "\n";
 		}
 	}

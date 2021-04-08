@@ -13,4 +13,4 @@
 <br />
 
 ## Miscellaneous
-- 12% · 80 = 12 · 80%, because of the *implied* division by 100.
+- 12% · 80 = 12 · 80%, because of the *implied* division by 100. The language of percentages may change the order of the spoken problem and the perception of it.

@@ -1,5 +1,5 @@
 
-## Teaching Math to Students and Professionals who struggle with it with great user experience
+## Teaching Math using great user experience to Students and Professionals who struggle with it.
 
 Much of daily-use math is symbolic. Symbolic math is a language, which complicates the otherwise very simple and intuitive *actual* math from basic addition to basic Calculus.
 

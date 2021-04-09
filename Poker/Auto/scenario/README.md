@@ -2,7 +2,7 @@
 
 Insights (Analyses) — calculations, comparisons, and statistics based on relative data (betting, samples, and so on). 
 
-See /math/Poker/Auto/Insights/scenarios for examples.
+See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree/master/Poker/Auto/Insights) for examples.
 
 ```
 cd scenario

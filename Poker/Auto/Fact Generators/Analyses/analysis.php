@@ -8,7 +8,7 @@ $position_distribution = array(0,0,0,0,0,0);
 	
 //test();
 $display_counter = 0;
-forEachLine("hands 2.txt");
+forEachLine("hands.txt");
 
 echo implode(",", $rank_distribution);
 echo "\n";
@@ -27,7 +27,7 @@ function processHandStat($line) {try {
 	
 	$count = count($hand[0]);
 	
-	if ($count == 1) {
+	if ($count == 1) { // best hand, else multiple
 		
 		$best = $hand[1][0]; // best hand, already decoded
 		
@@ -61,7 +61,9 @@ function forEachLine($fh) {
 
 	while(! feof($fn))  {
 		$line = fgets($fn);
-		processHandStat($line);
+		if (! trim($line) == '') {
+			processHandStat($line);
+		}
 	}
 
 	fclose($fn);

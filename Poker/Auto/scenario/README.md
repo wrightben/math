@@ -1,6 +1,13 @@
 # Summary
 
-Insights (Analyses) — calculations, comparisons, and statistics based on relative data (betting, samples, and so on)
+Insights (Analyses) — calculations, comparisons, and statistics based on relative data (betting, samples, and so on). 
+
+See /math/Poker/Auto/Insights/scenarios for examples.
+
+```
+cd scenario
+./scenario.sh
+```
 
 ## Files
 

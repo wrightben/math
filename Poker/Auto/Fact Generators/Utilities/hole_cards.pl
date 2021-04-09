@@ -115,6 +115,16 @@ sub getStatus() {
 	if ( abs($n1 - $n2) <= 4 ) {
 		$straight = 1;
 	}
+	if ( $n1 % 13 == 0  ) { # Card 1 is an Ace, King-high straight?
+		if ( abs(13 - $n2) <= 4 ) {
+			$straight = 1;
+		}
+	}
+	if ( $n2 % 13 == 0 ) { # Card 2 is an Ace, King-high straight?
+		if ( abs($n1 - 13) <= 4 ) {
+			$straight = 1;
+		}
+	}
 	
 	$suited = 0;
 	if ( floor($c1 / 13) == floor($c2 / 13) ) {

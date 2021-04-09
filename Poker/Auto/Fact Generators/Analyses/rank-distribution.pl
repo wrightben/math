@@ -5,7 +5,7 @@ chomp @contents;
 
 @rank = ( 0,0,0,0,0,0,0,0,0,0 );
 foreach $line (@contents) {
-	$line =~ /"rank":(\d)/;
+	$line =~ /"rank":(\d+?)/;
 	$rank[$1 - 1] += 1;
 }
 

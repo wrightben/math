@@ -1,15 +1,52 @@
 <?php
 
+
+// 	======================================================
+// 	GLOBALS 
+// 	======================================================
 $rank_distribution = array(0,0,0,0,0,0,0,0,0,0);
 $position_distribution = array(0,0,0,0,0,0);
 	
 
 	
-	
+// 	======================================================
+// 	PROGRAMMING 
+// 	======================================================	
 //test();
 forEachLine("hands.txt");
 reportDistribution();
 
+
+
+// 	======================================================
+// 	FUNCTIONS 
+// 	======================================================
+
+
+function reportDistribution() {
+	
+	global $rank_distribution, $position_distribution;
+	
+	$report = array();
+	
+	# REPORTING
+	array_push( $report, "Rank Distribution,Percentage\n" );
+	foreach ($rank_distribution as $item ) {
+		array_push( $report, "$item,=$item".'/$A$12'."\n" );
+	}
+	array_push( $report, "=sum(A2:A11)\n" );
+	
+	array_push( $report,  "\n\n\n\n" );
+
+	array_push( $report,  "Position Distribution,Percentage\n" );
+	foreach ($position_distribution as $item ) {
+		array_push( $report,  "$item,=$item".'/$A$24'."\n" );
+	}
+	array_push( $report,  "=sum(A18:A23)\n" );
+	
+	file_put_contents("../distribution.csv", implode( "", $report ) );
+	return 0;
+}
 
 
 
@@ -43,26 +80,6 @@ function processHandStat($line) {try {
     echo 'Caught exception: ',  $e->getMessage(), "\n";
 }}
 
-function reportDistribution() {
-	
-	global $rank_distribution, $position_distribution;
-	
-	# REPORTING
-	echo "Rank Distribution,Percentage\n";
-	foreach ($rank_distribution as $item ) {
-		echo "$item,=$item".'/$A$12'."\n";
-	}
-	echo "=sum(A2:A11)\n";
-	
-	echo "\n\n\n\n";
-
-	echo "Position Distribution,Percentage\n";
-	foreach ($position_distribution as $item ) {
-		echo "$item,=$item".'/$A$24'."\n";
-	}
-	echo "=sum(A18:A23)\n";
-	
-}
 
 
 function forEachLine($fh) {
@@ -82,6 +99,7 @@ function forEachLine($fh) {
 
 	fclose($fn);
 }
+
 
 
 function test() {

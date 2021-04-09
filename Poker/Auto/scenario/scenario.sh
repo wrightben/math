@@ -7,4 +7,4 @@ sh ./poker.sh
 if test -f "../distribution.csv"; then
    rm ../distribution.csv
 fi
-php ./distribution.php > ../distribution.csv
+php analysis.php

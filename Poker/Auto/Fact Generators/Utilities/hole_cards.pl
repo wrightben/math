@@ -86,10 +86,6 @@ sub getStatus() {
 	# ✓ Are they suited?
 	# ✓ Are they threatening a straight?
 	# ✓ Are they a pair?
-	# ? Are they the "best" hole cards?
-	# 	? Do the best hole cards usually win?
-	# ? How much "insight" should be used when comparing hole cards to each other or to the shared cards?
-	#	- Should hole cards be compared to each other using probabilities adjusted by the knowledge of the other hole cards? When betting, the hole cards are not compared this way by the players.
 	# ? Are there unknown attributes defining "good" hole cards?
 
 	($c1, $c2) = @_;

@@ -40,7 +40,7 @@ foreach $1 (0 .. 51) {
 		if ($2 ne $1) {
 			@c = ();		
 			push @c, $1, $2;
-			@c = sort @c;
+			@c = sort { $a <=> $b  } @c;
 			push @hole_cards, "".( join ",", &getStatus(@c) );
 		}
 	}

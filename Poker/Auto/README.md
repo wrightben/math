@@ -1,6 +1,6 @@
 ## Poker/Auto
 
-Writing code to auto-play poker.
+Writing code to learn and auto-play poker.
 
 ### To-Do List
 - [x] Play n hands: n = 500,000

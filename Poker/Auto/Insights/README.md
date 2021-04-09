@@ -1,3 +1,3 @@
-## Files
+# Scenarios
 
-- **Position and Rank Distribution.numbers** — 500,000 hands, distributions for hand rank and player's position
+Scenarios are specific configurations of the file **texas-holdem.js** used to generate statistics.

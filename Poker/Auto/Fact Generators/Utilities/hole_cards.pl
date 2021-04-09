@@ -1,7 +1,6 @@
 #!/usr/bin/perl
 
 use POSIX;
-use Data::Dumper;
 
 # ----------------------------
 # Conversion Vars

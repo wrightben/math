@@ -2,7 +2,13 @@
 
 Insights (Analyses) — calculations, comparisons, and statistics based on relative data (betting, samples, and so on). 
 
-See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree/master/Poker/Auto/Insights) for examples.
+See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree/master/Poker/Auto/Insights) for examples. 
+
+### Use
+
+1. Create a scenario by configuring texas-holdem.js.
+2. Place /scenario adjacent to texas-holdem.js
+3. Run scenario.sh as shown below
 
 ```
 cd scenario

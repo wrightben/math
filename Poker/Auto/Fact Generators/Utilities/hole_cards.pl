@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 
 use POSIX;
+use Data::Dumper;
 
 # ----------------------------
 # Conversion Vars
@@ -34,20 +35,28 @@ use POSIX;
 # &test();
 
 
-print join "\t", ("hole1","hole2","nominal1","nominal2","facevalue1","facevalue2","high","face","straight","suited","pair");
-print "\n";
+@hole_cards = ();
 foreach $1 (0 .. 51) {
 	foreach $2 (0 .. 51) {
 		if ($2 ne $1) {
 			@c = ();		
 			push @c, $1, $2;
 			@c = sort @c;
-			
-			print join "\t", &getStatus(@c);
-			print "\n";
+			push @hole_cards, "".( join ",", &getStatus(@c) );
 		}
 	}
 }
+
+# Summary
+print "hole1,hole2,nominal1,nominal2,facevalue1,facevalue2,high,face,straight,suited,pair\n";
+print join "\n", sort { 
+
+	@a = split ",", $a;
+	@b = split ",", $b;
+	
+	&pad($a[0]).&pad($a[1]) <=> &pad($b[0]).&pad($b[1]);
+	
+} @hole_cards;
 
 
 
@@ -55,10 +64,19 @@ foreach $1 (0 .. 51) {
 # FUNCTIONS
 # ----------------------------
 
+
 sub test() {
 	@status = &getStatus(28,44);
 	print join "\t", @status;
 	exit;
+}
+
+sub pad() {
+	my $p = shift @_;
+	if ($p < 10) {
+		return "0".$p;
+	}
+	return $p;
 }
 
 sub getStatus() {
@@ -113,6 +131,6 @@ sub getStatus() {
 		$pair = 1;
 	}
 	
-	return ($c1, $c2, $n1, $n2, $f1, $f2, $high, $face, $straight, $suited, $pair);
+	return ($c1, $c2, $n1, $n2, "'$f1'", "'$f2'", $high, $face, $straight, $suited, $pair);
 
 }

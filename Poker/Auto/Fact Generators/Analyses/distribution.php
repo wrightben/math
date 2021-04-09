@@ -7,21 +7,15 @@ $position_distribution = array(0,0,0,0,0,0);
 	
 	
 //test();
-$display_counter = 0;
 forEachLine("hands.txt");
+reportDistribution();
 
-echo implode(",", $rank_distribution);
-echo "\n";
-echo implode(",", $position_distribution);
 
 
 
 function processHandStat($line) {try {
 
-	global $rank_distribution, $position_distribution, $display_counter;
-	
-	$display_counter ++;
-
+	global $rank_distribution, $position_distribution;
 
 	$hand = json_decode($line);
 	
@@ -38,7 +32,6 @@ function processHandStat($line) {try {
 		$hole2 = $best->cards[1];
 		
 		
-		echo "$display_counter: $position, $rank\n";
 		$rank_distribution[$rank - 1] += 1;
 		$position_distribution[$position] += 1;
 
@@ -49,6 +42,27 @@ function processHandStat($line) {try {
 } catch (Exception $e) {
     echo 'Caught exception: ',  $e->getMessage(), "\n";
 }}
+
+function reportDistribution() {
+	
+	global $rank_distribution, $position_distribution;
+	
+	# REPORTING
+	echo "Rank Distribution,Percentage\n";
+	foreach ($rank_distribution as $item ) {
+		echo "$item,=$item".'/$A$12'."\n";
+	}
+	echo "=sum(A2:A11)\n";
+	
+	echo "\n\n\n\n";
+
+	echo "Position Distribution,Percentage\n";
+	foreach ($position_distribution as $item ) {
+		echo "$item,=$item".'/$A$24'."\n";
+	}
+	echo "=sum(A18:A23)\n";
+	
+}
 
 
 function forEachLine($fh) {

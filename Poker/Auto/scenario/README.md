@@ -6,7 +6,7 @@ See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree
 
 ### Use
 
-1. Create a scenario by configuring texas-holdem.js.
+1. Create a scenario by configuring texas-holdem.js
 2. Place /scenario adjacent to texas-holdem.js
 3. Run scenario.sh as shown below
 

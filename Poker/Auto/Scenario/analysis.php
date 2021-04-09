@@ -30,7 +30,7 @@ function reportDistribution() {
 	$report = array();
 	
 	# REPORTING
-	array_push( $report, "Rank Distribution,Percentage\n" );
+	array_push( $report, "Rank Distribution (1-10),Percentage\n" );
 	foreach ($rank_distribution as $item ) {
 		array_push( $report, "$item,=$item".'/$A$12'."\n" );
 	}
@@ -38,11 +38,10 @@ function reportDistribution() {
 	
 	array_push( $report,  "\n\n\n\n" );
 
-	array_push( $report,  "Position Distribution,Percentage\n" );
+	array_push( $report,  "Position Distribution (1-N),Percentage\n" );
 	foreach ($position_distribution as $item ) {
-		array_push( $report,  "$item,=$item".'/$A$24'."\n" );
+		array_push( $report,  "$item,"."\n" );
 	}
-	array_push( $report,  "=sum(A18:A23)\n" );
 	
 	file_put_contents("../distribution.csv", implode( "", $report ) );
 	return 0;

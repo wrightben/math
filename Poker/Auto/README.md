@@ -9,6 +9,6 @@ Writing code to auto-play poker.
   - ✓ Is it necessary for auto play to have hands fold? No.
   - ✓ Is it worthwhile to play the same hand using every player as the dealer. Only if betting is calculated.
     - How do intermediate likelihoods prevent the "inevitable" winning hand from actually winning?
-  - Do the best hole cards usually become the winning hand if no one folds?
+  - <mark>Do the best hole cards usually become the winning hand if no one folds?</mark>
   - Is betting a "language" or is it "math"?
     - Other questions are about the players, and then, finally, about codifying the players. This is the only interesting modern question about the game.

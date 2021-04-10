@@ -12,7 +12,7 @@ Writing code to learn and auto-play poker.
 ### To-Do List
 - [x] Play n hands: n = 500,000
 - Create a list of questions below:
-	- [ ] Does the distribution stay the same within a defined hand.
+	- [ ] Does the winning distribution stay the same within a defined hand?
 		- Example: If you play a pair of 7s, for example, are 30% of its wins as two pair?
 	- [x] Which hands win most often (when no one folds): Two Pair, 30% of hands- 
 	- [x] Do the best hole cards usually become the winning hand if no one folds? No.

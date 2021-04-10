@@ -16,7 +16,7 @@ Writing code to learn and auto-play poker.
 - Create a list of questions below:
 	- [ ] Does the winning distribution stay the same within a defined hand?
 		- Example: If you play a pair of 7s, for example, are 30% of its wins as two pair?
-	- [x] Which hands win most often (when no one folds): Two Pair, 30% of hands- 
+	- [x] Which hands win most often (when no one folds): Two Pair, 30%
 	- [x] Do the best hole cards usually become the winning hand if no one folds? No.
 		- [ ] How much "insight" should be used when comparing hole cards to each other or to the shared cards?
 			- [ ] Should hole cards be compared to each other using probabilities adjusted by the knowledge of the other hole cards?

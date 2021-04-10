@@ -3,7 +3,7 @@ I've been aware of poker tools that calculate odds of scenarios for about 25 yea
 
 Once you've created all of the scenarios you can think of, try playing with all of the cards face up. See how many times you can predict which hole cards will win any particular hand.
 
-A note about computers: Computers are different sizes now. But just 50 years ago, it was essentially impossible to know what anybody with [Learning JavaScript](https://www.oreilly.com/library/view/learning-javascript-3rd/9781491914892/) by O'Reilly Media can know today about poker.
+A note about computers: Computers are different sizes now. But just 50 years ago, it was essentially impossible to know what anybody with O'Reilly Media's [Learning JavaScript](https://www.oreilly.com/library/view/learning-javascript-3rd/9781491914892/) can know today about poker.
 
 <br />
 

@@ -12,10 +12,3 @@ Some theory explains how to bet to communicate the value of your hand, usually t
 
 ### Game Theory
 Because the 6 players do not know each others' hands, communicating and sometimes feigning values is a part of play.
-
-<br />
-
-## Auto Play and Analysis
-I've been aware of poker tools that calculate odds of various scenarios for close to 25 years. Still, computers are faster and I know how to program now, so getting answers to questions about poker scenarios is still fun. And the programming part is good practice for entry-level statistics and chained processes, and it's a  precursor for things like bots and machine learning.
-
-Once you've created all of the scenarios you can think of, try playing with all of the cards face up. See how many times you can predict which hole cards will win any particular hand.

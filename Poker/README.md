@@ -16,4 +16,6 @@ Because the 6 players do not know each others' hands, communicating and sometime
 <br />
 
 ## Auto Play and Analysis
-Another fun variation of the game is to play with all of the cards face up. See how many times the winning hole cards can be predicted.
+I've been aware of poker tools that calculate odds of various scenarios for almost 30 years. Still, computers are faster and I know how to program now, so getting answers to questions about poker scenarios is still fun. And the programming part is good practice for entry-level statistics and chained processes—a precursor for things like machine learning.
+
+Once you've created all of the scenarios you can think of, try playing with all of the cards face up. See how many times you can predict which hole cards will win any particular hand.

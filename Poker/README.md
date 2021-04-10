@@ -13,5 +13,7 @@ Some theory explains how to bet to communicate the value of your hand, usually t
 ### Game Theory
 Because the 6 players do not know each others' hands, communicating and sometimes feigning values is a part of play.
 
+<br />
+
 ## Auto Play and Analysis
 Another fun variation of the game is to play with all of the cards face up. See how many times the winning hole cards can be predicted.

@@ -11,6 +11,6 @@
 <br />
 
 ## Miscellaneous
-- 12% · 80 = 12 · 80%, because of the *implied* division by 100.
+12% · 80 = 12 · 80%, because of the *implied* division by 100.
 
 The language of percentages may change the order of the spoken problem and the perception of it. Which would you rather have? 12% · 80 or 80% · 12. This type of linguistic grouping reduces clarity in many instructional explanations, but it helps in creating punchlines.

@@ -4,7 +4,7 @@
 - **Addition Multiplication Exponents.numbers** — A simple example of how these operations are connected.
 - **Complicated Exponents.numbers** — 2 raised to the power of 1, 1.05, 1.10, and so on, up to 2. 
   -  2<sup>1</sup>, 2<sup>x</sup>, 2<sup>2</sup>: The symbology suggests x can be a non-integer: 2<sup>(1.05)</sup> = 2<sup>(21/20)</sup>
--  **Cubed Root Example.numbers** - <sup>3</sup>√180, symbolic for log<sub>x</sub> 180 = 3, is a table problem of division equal to n * 3 operations, where the correct answer is a row ending in 1, further evidence that *language* has subordinated *learning*.
+-  **Cubed Root Example.numbers** - <sup>3</sup>√180, symbolic for log<sub>x</sub> 180 = 3, is just repeated division, where the correct answer is a row ending in 1. Further evidence that *language* has subordinated *learning*.
 
 
 <br />

@@ -15,7 +15,7 @@ Writing code to learn and auto-play poker.
 - [x] Play n hands: n = 500,000
 - Create a list of questions below:
 	- [x] Does the winning rank distribution stay the same within a defined hand? No.
-		- Example: If you play a pair of 7s, for example, are 30% of its wins as two pair?
+		- Example: If you play a pair of 7s, are 30% of its wins as two pair?
 		- Example: 6s9s wins more often as a straight or flush.
 	- [x] Which hands win most often (when no one folds): Two Pair, 30%
 	- [x] Do the best hole cards usually become the winning hand if no one folds? No.

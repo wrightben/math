@@ -15,4 +15,4 @@
 
 The language of percentages may change the order of the spoken problem and the perception of it. Which would you rather have? 12% · 80 or 80% · 12. This type of linguistic grouping reduces clarity in many instructional explanations, but it helps in creating punchlines.
 
-Another example: 20% off in Michigan, which has a 6% sales tax, is actually .8 · 1.06, or about 85%.
+Another example: 20% off in Michigan, which has a 6% sales tax, is actually .8 · 1.06, or about 85%. Totally mental.

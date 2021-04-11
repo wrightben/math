@@ -1,5 +1,5 @@
 ## Auto Play and Analysis
-I've been aware of poker tools that calculate odds of scenarios for about 25 years. Still, computers are faster and I know how to program now, so getting answers to questions about poker scenarios can still be fun. And the programming part is good practice for entry-level statistics and chained processes, and it's a  precursor for things like bots and machine learning.
+I've been aware of poker programs that calculate odds of scenarios for about 25 years. Still, computers are faster and I know how to program now, so getting answers to questions about poker scenarios can still be fun. And the programming part is good practice for entry-level statistics and chained processes, and it's a  precursor for things like bots and machine learning.
 
 Once you've created all of the scenarios you can think of, try playing with all of the cards face up. See how many times you can predict which hole cards will win any particular hand.
 

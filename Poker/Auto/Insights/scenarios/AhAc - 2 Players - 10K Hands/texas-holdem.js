@@ -387,22 +387,14 @@ var setExports = function() {
 setExports();
 
 
-var	players = 6,
+var	players = 2,
 	shared = 5,	// community cards
-	
-	cards = getCards( players, shared );	// shared optional; 5 default
-	
-	hands = evaluateHands( 
+
+	hands = evaluateHands(  
 		getCardsAsPlayers(players, getCards([players, [
-			getCardsFromString( "9s 3s" ),
-			getCardsFromString( "3d 3h" ),
-			getCardsFromString( "kc 2h" ),
-			getCardsFromString( "js 7h" ),
-			getCardsFromString( "qc kh" ),
-			getCardsFromString( "8s as" )
+			getCardsFromString( "ah ac" )
 		]], shared))
 	);
-	
 	bestHands = getBestHands(hands); // see comment @return in getBestHands
 	
 console.log( JSON.stringify(bestHands) );

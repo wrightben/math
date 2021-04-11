@@ -14,3 +14,7 @@
 12% · 80 = 12 · 80%, because of the *implied* division by 100.
 
 The language of percentages may change the order of the spoken problem and the perception of it. Which would you rather have? 12% · 80 or 80% · 12. This type of linguistic grouping reduces clarity in many instructional explanations, but it helps in creating punchlines.
+
+### Example:
+20% off 3 footballs, each $19.99, with a sales tax of 1.06. This is the same as $19.99 · (.8 · 1.06), or $19.99 · ~.85
+

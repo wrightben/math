@@ -1,3 +1,0 @@
-## SparkCharts
-
-Available in DropBox

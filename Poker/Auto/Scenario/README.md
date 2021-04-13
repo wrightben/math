@@ -11,7 +11,7 @@ cd Scenario
 ./scenario.sh
 ```
 
-See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree/master/Poker/Auto/Insights) for examples. 
+See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree/master/Poker/Auto/Insights/scenarios) for examples. 
 
 
 ## Files

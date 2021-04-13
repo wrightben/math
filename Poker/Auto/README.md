@@ -5,4 +5,5 @@ Once you've created all of the scenarios you can think of, try playing with real
 
 Just 50 years ago, it was almost impossible to know what anybody with O'Reilly Media's [Learning JavaScript](https://www.oreilly.com/library/view/learning-javascript-3rd/9781491914892/) can know today about poker.
 
+<br />
 Get started with a [Scenario](https://github.com/wrightben/math/tree/master/Poker/Auto/Scenario).

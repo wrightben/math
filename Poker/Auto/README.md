@@ -7,4 +7,4 @@ Just 50 years ago, it was almost impossible to know what anybody with O'Reilly M
 
 <br />
 
-Get started with a [Scenario](https://github.com/wrightben/math/tree/master/Poker/Auto/Scenario).
+Start with a [Scenario](https://github.com/wrightben/math/tree/master/Poker/Auto/Scenario).

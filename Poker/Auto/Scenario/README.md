@@ -1,9 +1,5 @@
 # Summary
 
-Insights (Analyses) — calculations, comparisons, and statistics based on relative data (betting, samples, and so on). 
-
-See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree/master/Poker/Auto/Insights) for examples. 
-
 ### Use
 
 1. Create a scenario by configuring a hand in **[texas-holdem.js](https://github.com/wrightben/texas-holdem)**
@@ -14,6 +10,9 @@ See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree
 cd Scenario
 ./scenario.sh
 ```
+
+See [/math/Poker/Auto/Insights/scenarios](https://github.com/wrightben/math/tree/master/Poker/Auto/Insights) for examples. 
+
 
 ## Files
 
